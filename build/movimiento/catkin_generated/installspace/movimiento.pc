@@ -1,0 +1,8 @@
+prefix=/home/baruch/Documentos/Robotica/Movimiento completo/install
+
+Name: movimiento
+Description: Description of movimiento
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/baruch/Documentos/Robotica/Movimiento completo/install/lib 
+Requires: 
